@@ -1,7 +1,7 @@
 # Site settings
 title:       SUBIN's study log
 email:       stm01@naver.com
-author:      SUBIN SEO
+author:      subin seo
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "https://ddubny.github.io/studyrecord/"
