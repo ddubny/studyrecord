@@ -1,13 +1,12 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       SUBIN's study log
+email:       stm01@naver.com
+author:      SUBIN SEO
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "https://pixyll.com"
+url:         "https://ddubny.github.io/studyrecord/"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
  - contact.html
 
 # Google services
