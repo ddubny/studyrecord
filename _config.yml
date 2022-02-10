@@ -7,6 +7,7 @@ baseurl:     ""
 url:         "https://ddubny.github.io/studyrecord/"
 date_format: "%b %-d, %Y"
 header_pages:
+ - about.md
  - contact.html
 
 # Google services
