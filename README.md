@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pixyll
 
 [pixyll.com](https://www.pixyll.com/)
@@ -233,3 +234,6 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 ## Forking
 
 There is a [guide to forking Pixyll](https://pixyll.com/jekyll/pixyll/2019/01/26/guide-to-forking-pixyll/).
+=======
+# studyrecord
+>>>>>>> 12a6cdb30ac6e3f77598bfcadfc99725be9d9f0e
