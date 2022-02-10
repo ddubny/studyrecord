@@ -1,1 +1,1 @@
-# psychologyrecord
+# studyrecord
