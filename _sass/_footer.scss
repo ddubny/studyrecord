@@ -22,8 +22,8 @@ footer {
   background-color: $footer-bg-color;
   border-top: $footer-border-top;
   color: $footer-color;
-  font-size: $footer-font-size;
-  font-weight: $footer-font-weight;
+  font-size: $footer--size;
+  -weight: $footer--weight;
   padding: $footer-padding;
   text-align: center;
 }
